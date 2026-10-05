@@ -3,68 +3,8 @@
   "generatedAt": "2026-09-27T03:59:43.682Z",
   "listName": "V7 Beta",
   "sources": [
-    {
-      "id": "anilist.co",
-      "name": "AniList",
-      "version": 2,
-      "website": "https://anilist.co",
-      "rating": 1,
-      "languages": [
-        "en"
-      ],
-      "thumbnail": "anilist.png",
-      "path": "anilist",
-      "variantId": "anilist.co",
-      "sourceId": "anilist"
-    },
-    {
-      "id": "mangabaka.org",
-      "name": "MangaBaka",
-      "version": 1.4,
-      "website": "https://mangabaka.org",
-      "rating": 1,
-      "languages": [
-        "en"
-      ],
-      "thumbnail": "mangabaka.png",
-      "path": "mangabaka",
-      "variantId": "mangabaka.org",
-      "sourceId": "mangabaka"
-    },
-    {
-      "id": "org.gutenberg.www",
-      "name": "Project Gutenberg",
-      "version": 1,
-      "website": "https://www.gutenberg.org",
-      "rating": 0,
-      "languages": [
-        "en",
-        "fr",
-        "de",
-        "es",
-        "it",
-        "pt",
-        "nl",
-        "zh"
-      ],
-      "thumbnail": "gutenberg.png",
-      "path": "gutenberg",
-      "variantId": "org.gutenberg.www",
-      "sourceId": "gutenberg"
-    },
-    {
-      "id": "en.suwatte.app.novel-fixture",
-      "name": "Suwatte Novel Lab",
-      "version": 1,
-      "website": "https://www.suwatte.app",
-      "rating": 0,
-      "languages": [
-        "en"
-      ],
-      "path": "novelfixture",
-      "variantId": "en.suwatte.app.novel-fixture",
-      "sourceId": "novelfixture"
-    },
+
+
     {
       "id": "net.novelfire.www",
       "name": "NovelFire",
@@ -80,20 +20,6 @@
       "sourceId": "novelfire"
     },
     {
-      "id": "com.novelfull.www",
-      "name": "NovelFull",
-      "version": 1,
-      "website": "https://novelfull.com",
-      "rating": 1,
-      "languages": [
-        "en"
-      ],
-      "thumbnail": "novelfull.png",
-      "path": "novelfull",
-      "variantId": "com.novelfull.www",
-      "sourceId": "novelfull"
-    },
-    {
       "id": "com.readwn.www",
       "name": "WuxiaBox (ReadWN)",
       "version": 3,
@@ -106,118 +32,6 @@
       "path": "readwn",
       "variantId": "com.readwn.www",
       "sourceId": "readwn"
-    },
-    {
-      "id": "org.standardebooks.www",
-      "name": "Standard Ebooks",
-      "version": 1,
-      "website": "https://standardebooks.org",
-      "rating": 0,
-      "languages": [
-        "en"
-      ],
-      "thumbnail": "standardebooks.png",
-      "path": "standardebooks",
-      "variantId": "org.standardebooks.www",
-      "sourceId": "standardebooks"
-    },
-    {
-      "id": "org.wikisource.en",
-      "name": "Wikisource",
-      "version": 2,
-      "website": "https://en.wikisource.org",
-      "rating": 0,
-      "languages": [
-        "en"
-      ],
-      "thumbnail": "wikisource.png",
-      "path": "wikisource",
-      "variantId": "org.wikisource.en",
-      "sourceId": "wikisource"
-    },
-    {
-      "id": "allporncomic",
-      "name": "AllPornComic",
-      "version": 3,
-      "website": "https://allporncomic.com",
-      "rating": 2,
-      "languages": [
-        "en"
-      ],
-      "thumbnail": "allporncomic.png",
-      "path": "allporncomic",
-      "variantId": "allporncomic",
-      "sourceId": "allporncomic"
-    },
-    {
-      "id": "cmanga",
-      "name": "CManga",
-      "version": 2,
-      "website": "https://cmangavn.com",
-      "rating": 1,
-      "languages": [
-        "vi"
-      ],
-      "thumbnail": "cmanga.png",
-      "path": "cmanga",
-      "variantId": "cmanga",
-      "sourceId": "cmanga"
-    },
-    {
-      "id": "ehentai",
-      "name": "E-Hentai",
-      "version": 3,
-      "website": "https://e-hentai.org",
-      "rating": 2,
-      "languages": [
-        "en"
-      ],
-      "thumbnail": "ehentai.png",
-      "path": "ehentai",
-      "variantId": "ehentai",
-      "sourceId": "ehentai"
-    },
-    {
-      "id": "fapello",
-      "name": "Fapello",
-      "version": 2,
-      "website": "https://fapello.com",
-      "rating": 2,
-      "languages": [
-        "en"
-      ],
-      "thumbnail": "fapello.png",
-      "path": "fapello",
-      "variantId": "fapello",
-      "sourceId": "fapello"
-    },
-    {
-      "id": "imhentai",
-      "name": "IMHentai",
-      "version": 3,
-      "website": "https://imhentai.xxx",
-      "rating": 2,
-      "languages": [
-        "en"
-      ],
-      "thumbnail": "imhentai.png",
-      "path": "imhentai",
-      "variantId": "imhentai",
-      "sourceId": "imhentai"
-    },
-    {
-      "id": "nhentai",
-      "name": "nHentai",
-      "version": 3,
-      "website": "https://nhentai.net",
-      "rating": 2,
-      "languages": [
-        "en"
-      ],
-      "thumbnail": "nhentai.png",
-      "path": "nhentai",
-      "variantId": "nhentai",
-      "sourceId": "nhentai"
     },
     {
       "id": "readcomiconline",
@@ -473,37 +287,7 @@
       "path": "hentairox",
       "variantId": "com.hentairox",
       "sourceId": "hentairox"
-    },
-    {
-      "id": "com.asmhentai",
-      "name": "AsmHentai",
-      "version": 1,
-      "website": "https://asmhentai.com",
-      "rating": 2,
-      "languages": [
-        "en",
-        "ja"
-      ],
-      "thumbnail": "asmhentai.png",
-      "path": "asmhentai",
-      "variantId": "com.asmhentai",
-      "sourceId": "asmhentai"
-    },
-    {
-      "id": "net.3hentai",
-      "name": "3Hentai",
-      "version": 1,
-      "website": "https://3hentai.net",
-      "rating": 2,
-      "languages": [
-        "en",
-        "ja"
-      ],
-      "thumbnail": "threehentai.png",
-      "path": "threehentai",
-      "variantId": "net.3hentai",
-      "sourceId": "threehentai"
-    },
+    }
     {
       "id": "me.pururin",
       "name": "Pururin",
