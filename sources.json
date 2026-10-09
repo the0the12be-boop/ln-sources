@@ -18,6 +18,20 @@
       "sourceId": "novelfire"
     },
     {
+      "id": "com.novelfull.www",
+      "name": "NovelFull",
+      "version": 1,
+      "website": "https://novelfull.com",
+      "rating": 1,
+      "languages": [
+        "en"
+      ],
+      "thumbnail": "novelfull.png",
+      "path": "novelfull",
+      "variantId": "com.novelfull.www",
+      "sourceId": "novelfull"
+    },
+    {
       "id": "com.readwn.www",
       "name": "WuxiaBox (ReadWN)",
       "version": 3,
